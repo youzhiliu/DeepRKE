@@ -1,4 +1,4 @@
-import load_onehot_data as ld
+import load_data as ld
 from sklearn.metrics import roc_auc_score, roc_curve, auc, accuracy_score, recall_score, f1_score, \
 	precision_recall_curve
 from NetWork_RBP31 import BCL_Network
